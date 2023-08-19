@@ -1,0 +1,5 @@
+---
+target: inv
+reference: lvs_work/inv_reference.cir.txt
+netlist: "/Users/hana/MakeLSI/Inv/Inv.cir"
+schematic: "/Users/hana/MakeLSI/Inv/Inv.cir"
