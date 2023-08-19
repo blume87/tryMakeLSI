@@ -1,0 +1,5 @@
+ERROR: After October 2020 you may experience errors when installing or updating packages. This is because pip will change the way that it resolves dependency conflicts.
+
+We recommend you use --use-feature=2020-resolver to test your packages with the new resolver before it becomes the default.
+
+scipy 1.11.2 requires numpy<1.28.0,>=1.21.6, but you'll have numpy 1.20.3 which is incompatible.
